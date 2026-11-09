@@ -44,3 +44,8 @@ Me gusta crear cosas que funcionen de verdad en producción y, de vez en cuando,
 <sub>Hecho con mucho café y bastantes noches de código.</sub>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hjasher/Hjasher/output/github-snake-dark.svg">
+  <img alt="Gráfica de contribuciones" src="https://raw.githubusercontent.com/Hjasher/Hjasher/output/github-snake.svg">
+</picture>
