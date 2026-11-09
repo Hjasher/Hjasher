@@ -22,6 +22,8 @@ Me gusta crear cosas que funcionen de verdad en producción y, de vez en cuando,
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
 
 </div>
 
@@ -36,18 +38,6 @@ Me gusta crear cosas que funcionen de verdad en producción y, de vez en cuando,
 
 ---
 
-<!--
-  LINKS DE CONTACTO (opcional)
-  Quita las marcas de comentario y cambia TU-USUARIO / TU-SITIO por los tuyos
-  solo de lo que quieras hacer público.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-[![Sitio](https://img.shields.io/badge/Elyon_Software-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://TU-SITIO)
-
-</div>
--->
 
 <div align="center">
 
